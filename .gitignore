@@ -1,5 +1,8 @@
 # Ignore data folder and heavy pptx files
-data/
+data/*.txt # Directory for data files
+data/PetSemetary_update.txt
+data/TheShining_update.txt
+data/*
 slides/*.pptx
 
 # Byte-compiled / optimized / DLL files
