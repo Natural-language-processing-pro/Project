@@ -1,6 +1,11 @@
 # Stephen King Fear Language Analysis  
 ### Comparative NLP Study of *Pet Sematary* and *The Shining*
 
+## Medium Article (40%)
+Full explanation and analysis:
+https://medium.com/@yassinehab323/can-fear-be-measured-c7f2dfac5f22
+
+
 This repository contains a five-notebook Natural Language Processing workflow analyzing how Stephen King constructs fear, emotional intensity, and psychological tension across two novels.
 
 ## Project Structure
